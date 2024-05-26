@@ -53,7 +53,7 @@
 
 2. Now Deploy
     <br>
-***[`TAP HERE TO DEPLOY ON HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BARAKA-XMD)***
+**[`TAP HERE TO DEPLOY ON HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BARAKA-MD)**
 
 
 
