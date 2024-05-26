@@ -53,6 +53,6 @@
 
 2. Now Deploy
     <br>
-<a href='https://heroku.com/deploy' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BARAKA-XMD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 [Thanks to Ibrahim Adams](https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y)
