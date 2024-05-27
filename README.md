@@ -43,13 +43,13 @@
 ## 1 *`⨷ SCAN PAIRING CODE + QR IN THE APP`*
 
 
-[BARAKA APP](https://baraka-md-af3e38f6851a.herokuapp.com/)
+[*`BARAKA APP`*](https://baraka-md-af3e38f6851a.herokuapp.com/)
 
 
 ## 2 *`⨷ Now Deploy`*
-    <br>
-**[`TAP HERE TO DEPLOY ON HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BARAKA-MD)**
+
+**[*`TAP HERE TO DEPLOY ON HEROKU`*](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BARAKA-MD)**
 
 
 
-[Thanks to Ibrahim Adams](https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y)
+[*`Thanks to Ibrahim Adams`*](https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y)
