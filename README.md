@@ -40,18 +40,13 @@
 # DEPLOY SETUP
 
 
-## 2 *`⨷ SCAN PAIRING CODE`*
-<a href='https://bmw-code-scanner-8df743f73014.herokuapp.com/pair' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+## 1 *`⨷ SCAN PAIRING CODE + QR IN THE APP`*
 
-## *`⨷ NOW DEPLOY`*
 
-#### DEPLOY TO HEROKU 
+[BARAKA APP](https://baraka-md-af3e38f6851a.herokuapp.com/)
 
-1. If You don't have a account in Heroku. Create a account.
-    <br>
-<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
-2. Now Deploy
+## 2 *`⨷ Now Deploy`*
     <br>
 **[`TAP HERE TO DEPLOY ON HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BARAKA-MD)**
 
