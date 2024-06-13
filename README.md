@@ -1,7 +1,7 @@
 </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43">
-    <img alt=Support height="350" src="https://telegra.ph/file/b42cbd63877fd9d93e5ab.jpg"> 
+    <img alt=Support height="350" src="https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg"> 
     </p>
 <h1 align="center">   BARAKA MD-MULTI-DEVICE
 </h1>
@@ -43,7 +43,7 @@
 ## 1 *`⨷ SCAN PAIRING CODE + QR IN THE APP`*
 
 
-[*`BARAKA APP`*](https://baraka-md-af3e38f6851a.herokuapp.com/)
+[*`BARAKA APP`*](https://baraka-md-code-scanner-a5887fc01f50.herokuapp.com/)
 
 
 ## 2 *`⨷ Now Deploy`*
