@@ -3,11 +3,11 @@
   <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43">
     <img alt=Support height="350" src="https://telegra.ph/file/c49429f9051bd41ad96dc.jpg"> 
     </p>
-<h1 align="center">   BARAKA MD-MULTI-DEVICE
+<h1 align="center">   BARAKA-MD-𝗩1
 </h1>
 <p align="center"> 
   
-<p align="center"> A Whatsapp Bot Create By Mr baraka To Do Everything That Is Possible On WhatsApp
+<p align="center"> 𝗧𝗛𝗜𝗦 𝗜𝗦 𝗕𝗔𝗥𝗔𝗞𝗔-𝗠𝗗 𝗔 𝗦𝗜𝗠𝗣𝗟𝗘 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧 𝗠𝗔𝗗𝗘 𝗕𝗬 𝗕𝗔𝗥𝗔𝗞𝗔 𝗕𝗘𝗚𝗔
  
   </a>
 </p>
@@ -37,19 +37,22 @@
 <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-yellow?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 
 
-# DEPLOY SETUP
+# *`𝗗𝗘𝗣𝗟𝗢𝗬 𝗦𝗘𝗧𝗨𝗣`*
 
 
-## 1 *`⨷ SCAN PAIRING CODE + QR IN THE APP`*
+## 1*`𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗦𝗜𝗧𝗘 👇`*
 
 
-[*`BARAKA APP`*](https://baraka-md-code-scanner-a5887fc01f50.herokuapp.com/)
+[*`𝗦𝗖𝗔𝗡 𝗤𝗥`*](https://baraka-pair-code1-2214cd943a75.herokuapp.com/qr)
 
 
-## 2 *`⨷ Now Deploy`*
+[*`𝗣𝗮𝗶𝗿 𝗰𝗼𝗱𝗲`*](https://baraka-pair-code1-2214cd943a75.herokuapp.com/pair)
+
+
+## 2*`𝗡𝗢𝗪 𝗗𝗘𝗣𝗟𝗢𝗬 👇`*
+
 
 **[*`TAP HERE TO DEPLOY ON HEROKU`*](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BARAKA-MD)**
-
 
 
 [*`Thanks to Ibrahim Adams`*](https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y)
