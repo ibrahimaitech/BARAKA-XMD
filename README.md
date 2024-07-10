@@ -37,13 +37,13 @@
 <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-yellow?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 
 
-# DEPLOY SETUP
+# _DEPLOY SETUP_
 
 
 ## 1 *`⨷ SCAN PAIRING CODE + QR IN THE APP`*
 
 
-[*`BARAKA APP`*](https://baraka-md-code-scanner-a5887fc01f50.herokuapp.com/)
+[*`𝗕𝗔𝗥𝗔𝗞𝗔 𝗔𝗣𝗣`*](https://baraka-pair-code1-2214cd943a75.herokuapp.com/)
 
 
 ## 2 *`⨷ Now Deploy`*
