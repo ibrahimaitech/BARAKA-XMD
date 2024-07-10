@@ -3,12 +3,11 @@
   <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43">
     <img alt=Support height="350" src="https://telegra.ph/file/c49429f9051bd41ad96dc.jpg"> 
     </p>
-<h1 align="center">   BARAKA MD-MULTI-DEVICE
+<h1 align="center">   𝗕𝗔𝗥𝗔𝗞𝗔𝗠𝗗-𝗠𝗨𝗟𝗧𝗜-𝗗𝗘𝗩𝗜𝗖𝗘
 </h1>
 <p align="center"> 
   
-<p align="center"> A Whatsapp Bot Create By Mr baraka To Do Everything That Is Possible On WhatsApp
- 
+<p align="center"> 𝗧𝗛𝗜𝗦 𝗜𝗦 𝗕𝗔𝗥𝗔𝗞𝗔-𝗠𝗗 𝗔 𝗦𝗜𝗠𝗣𝗟𝗘 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧 𝗠𝗔𝗗𝗘 𝗕𝗬 𝗕𝗔𝗥𝗔𝗞𝗔 𝗕𝗘𝗚𝗔 
   </a>
 </p>
 <p align="center">
@@ -43,7 +42,7 @@
 ## 1 *`⨷ SCAN PAIRING CODE + QR IN THE APP`*
 
 
-[*`BARAKA APP`*](https://baraka-md-code-scanner-a5887fc01f50.herokuapp.com/)
+[*`BARAKA APP`*](https://baraka-pair-code1-2214cd943a75.herokuapp.com/)
 
 
 ## 2 *`⨷ Now Deploy`*
