@@ -1,25 +1,15 @@
 </p>
-<p align="center">
+<p align="center"> 𝐁𝐀𝐑𝐀𝐊𝐀-𝐌𝐃-𝐕2
   <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43">
     <img alt=Support height="350" src="https://telegra.ph/file/9f7ae8da5615352023ff6.jpg"> 
     </p>
-<p align="center"> 
- 𝗕𝗔𝗥𝗔𝗞𝗔 𝗠𝗗-𝗩1 𝗠𝗨𝗟𝗧𝗜-𝗗𝗘𝗩𝗜𝗖𝗘
+ 
+ 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +BARAKA-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+BARAKA+BEGA;RELEASED+1.1.2025" alt="Typing SVG" /></a>
   </p>
  
-  </a>
-</p>
-<p align="center">
-<a href="https://github.com/ibrahimaitech"><img title="Author" src="https://img.shields.io/bad/BARAKA MD-MULTI_DEVICE-black?style=for-the-badge&logo=github"></a>
-<p/>
-
-
-
----  
-
-</p>
+  ***
 
 
    <p align="left">
