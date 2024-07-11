@@ -15,7 +15,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THANKS+FOR+CHOOSING+BARAKA+MD+MULTI;+DEVICE+WHATSAPP+BOT+CREATED;++++++++++BY+BARAKA+BEGA+RELEASED+1.1.2024)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+BARAKA-MD+CREATED+BY+BARAKA+;BEGA+FROM+TANZANIA+%F0%9F%87%B9%F0%9F%87%BF%E2%9D%A4%EF%B8%8F%F0%9F%87%B9%F0%9F%87%BF" alt="Typing SVG" /></a>
 
 
 
