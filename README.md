@@ -51,7 +51,7 @@
 | Auto/View once commands     | remove photo and video from lock            | ✅           | 3.0    |
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a>
 ## `INSTALLATION METHODS`
 
 1. Fork the repo
@@ -152,12 +152,12 @@
 
 
 ### `🧡 𝘛𝘩𝘢𝘯𝘬𝘴 𝘛𝘰`
-- ***Ibrahim-Adams***
-- ***Baraka-Bega***
-- ***To-God 🙏***
-- ***Who Helping Me***
-- ***Who Using This Bot***
-- ***Support Me By Subscribe On Yt [Yt Channel](https://www.youtube.com/@ibrahimaitech)***
+- Ibrahim-Adams
+- Baraka-Bega
+- To-God 🙏
+- Who Helping Me
+- Who Using This Bot
+- Support Me By Subscribe On My Yt [Yt Channel](https://www.youtube.com/@ibrahimaitech)
 
 
 
