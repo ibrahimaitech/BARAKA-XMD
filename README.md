@@ -7,7 +7,7 @@
    𝗕𝗔𝗥𝗔𝗞𝗔 𝗠𝗗-𝗩1 𝗠𝗨𝗟𝗧𝗜-𝗗𝗘𝗩𝗜𝗖𝗘
 
   ### ℹ️ **About BARAKA-MD-V1**
-BARAKA-MD-V1 is a Cool Multi-Device WhatsApp bot developed by [Baraka bega]
+## BARAKA-MD-V1 is a Cool Multi-Device WhatsApp bot developed by [Baraka bega]
 
  
   </a>
