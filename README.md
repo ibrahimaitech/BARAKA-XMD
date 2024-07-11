@@ -59,12 +59,12 @@
 
 
 
-[*`𝗦𝗖𝗔𝗡 𝗤𝗥`*](https://baraka-pair-code1-2214cd943a75.herokuapp.com/qr)
+[*`𝗦𝗖𝗔𝗡𝗜𝗡𝗚 𝗤𝗥`*](https://baraka-pair-code1-2214cd943a75.herokuapp.com/qr)
 
 
 
 
-[*`𝗣𝗔𝗜𝗥 𝗖𝗢𝗗𝗘`*](https://baraka-pair-code1-2214cd943a75.herokuapp.com/pair)
+[*`𝗣𝗔𝗜𝗥𝗜𝗡𝗚 𝗖𝗢𝗗𝗘`*](https://baraka-pair-code1-2214cd943a75.herokuapp.com/pair)
 
 
 
