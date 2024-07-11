@@ -59,9 +59,9 @@
 
 
 ## `INSTALLATION METHODS`
-1. `1. Fork the repo
+1. 1. Fork the repo
     <br>
-<a href='https://github.com/salmanytofficial/XLICON-V3-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/ibrahimaitech/BARAKA-XMD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 2. Get session id by (Scanning qr1)
     <br>
