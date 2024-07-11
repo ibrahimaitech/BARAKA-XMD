@@ -1,5 +1,12 @@
 </p>
-<p align="center"> 𝐁𝐀𝐑𝐀𝐊𝐀-𝐌𝐃-𝐕2
+<p align="center"> 
+
+# 𝐁𝐀𝐑𝐀𝐊𝐀-𝐌𝐃-𝐕2
+
+
+
+</p>
+<p align="center"> 
   <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43">
     <img alt=Support height="350" src="https://telegra.ph/file/9f7ae8da5615352023ff6.jpg"> 
     </p>
