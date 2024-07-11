@@ -15,8 +15,8 @@
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +BARAKA MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+BARAKA+BEGA;RELEASED+1.1.2024" alt="Typing SVG" /></a>
-  </p> 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=BARAKA-MD-V1+MULTI+DEVICE+WHATSAPP+BOT+CREATED!;BY+BARAKA+BEGA+REALISED+1.1.2024+!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 
 
 
