@@ -130,8 +130,7 @@
 
 
 
-
-## JOIN MY WHATSAPP CHANNEL FOR UPDATES 
+ 
 <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
