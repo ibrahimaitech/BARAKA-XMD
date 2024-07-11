@@ -1,18 +1,14 @@
-BARAKA-MD-V1 
-
-
-
 </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43">
     <img alt=Support height="350" src="https://telegra.ph/file/c49429f9051bd41ad96dc.jpg"> 
     </p>
 <p align="center"> 
- 
-  `𝗕𝗔𝗥𝗔𝗞𝗔 𝗠𝗗-𝗩1 𝗠𝗨𝗟𝗧𝗜-𝗗𝗘𝗩𝗜𝗖𝗘`
+ 𝗕𝗔𝗥𝗔𝗞𝗔 𝗠𝗗-𝗩1 𝗠𝗨𝗟𝗧𝗜-𝗗𝗘𝗩𝗜𝗖𝗘
   
   
   ### ℹ️ **About BARAKA-MD-V1**
+  
 ## BARAKA-MD-V1 is a Cool Multi-Device WhatsApp bot developed by [Baraka bega]
 
  
@@ -63,7 +59,10 @@ BARAKA-MD-V1
 
 
 
+
+
 ### *`𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗦𝗜𝗧𝗘`*
+
 
 
 
@@ -71,7 +70,9 @@ BARAKA-MD-V1
 
 
 
+
 [*`𝗣𝗔𝗜𝗥 𝗖𝗢𝗗𝗘`*](https://baraka-pair-code1-2214cd943a75.herokuapp.com/pair)
+
 
 
 
@@ -79,7 +80,9 @@ BARAKA-MD-V1
 
 
 
+
 1. Create account
+
 
 
     
@@ -87,11 +90,17 @@ BARAKA-MD-V1
 
 
 
+
 2. Now deploy
+
 
 
     
 [*`𝗗𝗘𝗣𝗟𝗢𝗬`*](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BARAKA-MD)
+
+
+
+
 
 
 
