@@ -43,7 +43,7 @@
 ## 1 *`⨷ SCAN PAIRING CODE + QR IN THE APP`*
 
 
-[*`BARAKA APP`*](https://baraka-md-code-scanner-a5887fc01f50.herokuapp.com/)
+[*`BARAKA APP`*](https://baraka-pair-code1-2214cd943a75.herokuapp.com/)
 
 
 ## 2 *`⨷ Now Deploy`*
