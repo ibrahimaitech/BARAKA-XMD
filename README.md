@@ -3,10 +3,10 @@
   <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43">
     <img alt=Support height="350" src="https://telegra.ph/file/c49429f9051bd41ad96dc.jpg"> 
     </p>
-# 𝗕𝗔𝗥𝗔𝗞𝗔-𝗠𝗗-𝗩1
+<p align="center"> 𝗕𝗔𝗥𝗔𝗞𝗔 𝗠𝗗-𝗠𝗨𝗟𝗧𝗜-𝗗𝗘𝗩𝗜𝗖𝗘
 
   
-## 𝗧𝗛𝗜𝗦 𝗜𝗦 𝗕𝗔𝗥𝗔𝗞𝗔-𝗠𝗗 𝗔 𝗦𝗜𝗠𝗣𝗟𝗘 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧 𝗠𝗔𝗗𝗘 ## 𝗕𝗬 𝗕𝗔𝗥𝗔𝗞𝗔 𝗕𝗘𝗚𝗔
+## 𝗧𝗛𝗜𝗦 𝗜𝗦 𝗕𝗔𝗥𝗔𝗞𝗔-𝗠𝗗 𝗔 𝗦𝗜𝗠𝗣𝗟𝗘 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧 𝗠𝗔𝗗𝗘 𝗕𝗬 𝗕𝗔𝗥𝗔𝗞𝗔 𝗕𝗘𝗚𝗔
  
   </a>
 </p>
@@ -68,13 +68,13 @@
 1. If You don't have a account in Heroku. Create a account.
 
     
-(https://signup.heroku.com/login)
+[*`𝗖𝗥𝗘𝗔𝗧𝗘`*](https://signup.heroku.com/login)
 
 
 2. Now deploy
 
     
-(https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BARAKA-MD)
+[*`𝗗𝗘𝗣𝗟𝗢𝗬`*](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BARAKA-MD)
 
 
 [*`Thanks to Ibrahim Adams`*](https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y)
