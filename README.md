@@ -4,7 +4,7 @@
     <img alt=Support height="350" src="https://telegra.ph/file/c49429f9051bd41ad96dc.jpg"> 
     </p>
 <p align="center"> 
-  ## 𝗕𝗔𝗥𝗔𝗞𝗔 𝗠𝗗-𝗩1 𝗠𝗨𝗟𝗧𝗜-𝗗𝗘𝗩𝗜𝗖𝗘
+  # 𝗕𝗔𝗥𝗔𝗞𝗔 𝗠𝗗-𝗩1 𝗠𝗨𝗟𝗧𝗜-𝗗𝗘𝗩𝗜𝗖𝗘
 
   
 
@@ -37,7 +37,7 @@
 <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-yellow?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 
 
-## 🚀 `Bot Features`
+## 🪶`Bot Features`
 | Feature                          | Description                                             | Available    | Version    |
 | ---------------------------------| ------------------------------------------------------- | ------------ | ---------- |
 | Multi-Device Support             | Operate the bot on multiple devices simultaneously      | ✅           | 3.0        |
