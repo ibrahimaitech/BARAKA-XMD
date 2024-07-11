@@ -59,7 +59,18 @@
 
 
 ## `INSTALLATION METHODS`
-1. Fork the repo
+1. `1. Fork the repo
+    <br>
+<a href='https://github.com/salmanytofficial/XLICON-V3-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+2. Get session id by (Scanning qr1)
+    <br>
+<a href='https://baraka-pair-code1-2214cd943a75.herokuapp.com/qr' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+2. Get session id by (Pairing code2)
+    <br>
+<a href='https://baraka-pair-code1-2214cd943a75.herokuapp.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+`
 
 
 
