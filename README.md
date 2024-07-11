@@ -34,9 +34,9 @@
 
 <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-yellow?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## `BOT FEATURES`
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 | Feature                          | Description                                             | Available    | Version    |
 | ---------------------------------| ------------------------------------------------------- | ------------ | ---------- |
 | Multi-Device Support             | Operate the bot on multiple devices simultaneously      | ✅           | 3.0        |
@@ -49,17 +49,9 @@
 | Various Games                    | Enjoy a variety of games within the bot                 | ✅           | 3.0        |
 | Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 3.0        |
 | Auto/View once commands     | remove photo and video from lock            | ✅           | 3.0        |
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
- 
-
-
-
-
-
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## `INSTALLATION METHODS`
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 1. Fork the repo
     <br>
 <a href='https://github.com/ibrahimaitech/BARAKA-XMD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
