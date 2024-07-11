@@ -76,8 +76,45 @@
     <br>
 <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
+
+
 2. Now Deploy
     <br>
 <a href='https://dashboard.heroku.com/new?template=https://github.com/ibraahadam/BARAKA-MD-V3/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
+
+#### DEPLOY TO REPLIT
+
+1. If You don't have an account in Replit. Create a account.
+    <br>
+<a href='https://replit.com/signup' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
+
+
+2. Now Deploy
+    <br>
+    <a href='https://repl.it/github/salmanytofficial/XLICON-V3-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
+
+
+
+    #### DEPLOY TO RAILWAY
+
+1. If You don't have a account in Railway. Create a account.
+    <br>
+<a href='https://railway.app/login' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=railway' width="96.35" height="28"/></a></p>
+
+2. Now Deploy
+    <br>
+<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=railway' width="96.35" height="28"/></a></p>
+
+
+
+#### DEPLOY TO RENDER
+
+13. If You don't have a account in Render. Create a account.
+    <br>
+<a href='https://dashboard.render.com/register' target="_blank"><img alt='Render' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
+
+14. Now Deploy
+    <br>
+<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
