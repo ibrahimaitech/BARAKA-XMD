@@ -129,11 +129,3 @@
 
 
 
-## 🏷️ `OWNER` 
-<a href="https://github.com/Barakabega"><img src="https://github.com/Barakabega" width="250" height="250" alt="Baraka-bega"/></a>
-
-
-
-
-## 🏷️ `MAIN DEV` 
-<a href="https://github.com/ibrahimaitech"><img src="https://github.com/ibrahimaitech" width="250" height="250" alt="Ibrahim-Adams"/></a>
