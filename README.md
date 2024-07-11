@@ -72,10 +72,12 @@
 [*`𝗖𝗥𝗘𝗔𝗧𝗘`*](https://signup.heroku.com/login)
 
 
-2. Deploy to Heroku 
+2. Now deploy
 
     
 [*`𝗗𝗘𝗣𝗟𝗢𝗬`*](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BARAKA-MD)
+
+
 
 
 
