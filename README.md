@@ -34,6 +34,7 @@
 
 <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-yellow?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## `BOT FEATURES`
 | Feature                          | Description                                             | Available    | Version    |
@@ -48,6 +49,7 @@
 | Various Games                    | Enjoy a variety of games within the bot                 | ✅           | 3.0        |
 | Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 3.0        |
 | Auto/View once commands     | remove photo and video from lock            | ✅           | 3.0        |
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
  
@@ -70,6 +72,9 @@
     <br>
 <a href='https://baraka-pair-code1-2214cd943a75.herokuapp.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 
@@ -148,6 +153,7 @@
 
 
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 
