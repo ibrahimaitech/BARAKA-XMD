@@ -3,7 +3,7 @@
   <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43">
     <img alt=Support height="350" src="https://telegra.ph/file/c49429f9051bd41ad96dc.jpg"> 
     </p>
-<p align="center"> ## 𝗕𝗔𝗥𝗔𝗞𝗔 𝗠𝗗-𝗩1 𝗠𝗨𝗟𝗧𝗜-𝗗𝗘𝗩𝗜𝗖𝗘
+<p align="center"> # 𝗕𝗔𝗥𝗔𝗞𝗔 𝗠𝗗-𝗩1 𝗠𝗨𝗟𝗧𝗜-𝗗𝗘𝗩𝗜𝗖𝗘
 
   
 <p align="center">  
@@ -59,23 +59,29 @@
 ### *`𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗦𝗜𝗧𝗘 𝗔𝗣𝗣`*
 
 
+
 [*`𝗦𝗖𝗔𝗡 𝗤𝗥`*](https://baraka-pair-code1-2214cd943a75.herokuapp.com/qr)
+
 
 
 [*`𝗣𝗔𝗜𝗥 𝗖𝗢𝗗𝗘`*](https://baraka-pair-code1-2214cd943a75.herokuapp.com/pair)
 
 
 
-#### *`DEPLOY TO HEROKU`*
+#### *`𝗗𝗘𝗣𝗟𝗢𝗬 𝗧𝗢 𝗛𝗘𝗥𝗢𝗞𝗨`*
+
 
 
 1. Create a account
+
 
     
 [*`𝗖𝗥𝗘𝗔𝗧𝗘`*](https://signup.heroku.com/login)
 
 
+
 2. Now deploy
+
 
     
 [*`𝗗𝗘𝗣𝗟𝗢𝗬`*](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BARAKA-MD)
