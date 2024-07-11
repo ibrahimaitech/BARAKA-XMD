@@ -6,8 +6,8 @@
 <p align="center">  𝗕𝗔𝗥𝗔𝗞𝗔 𝗠𝗗-𝗩1 𝗠𝗨𝗟𝗧𝗜-𝗗𝗘𝗩𝗜𝗖𝗘
 
   
-## 𝗕𝗔𝗥𝗔𝗞𝗔-𝗠𝗗-𝗩1 
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=𝗧𝗛𝗜𝗦 𝗜𝗦 𝗕𝗔𝗥𝗔𝗞𝗔-𝗠𝗗-𝗩1.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+### ℹ️ **About BARAKA-MD**
+BARAKA-MD-V1 is a Cool Multi-Device WhatsApp bot developed by [Baraka bega]
  
   </a>
 </p>
