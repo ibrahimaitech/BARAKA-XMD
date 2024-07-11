@@ -3,11 +3,10 @@
   <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43">
     <img alt=Support height="350" src="https://telegra.ph/file/c49429f9051bd41ad96dc.jpg"> 
     </p>
-<h1 align="center">   BARAKA MD-MULTI-DEVICE
-</h1>
-<p align="center"> 
+## 𝗕𝗔𝗥𝗔𝗞𝗔-𝗠𝗗-𝗩1
+
   
-<p align="center"> A Whatsapp Bot Create By Mr baraka To Do Everything That Is Possible On WhatsApp
+## 𝗧𝗛𝗜𝗦 𝗜𝗦 𝗕𝗔𝗥𝗔𝗞𝗔-𝗠𝗗 𝗔 𝗦𝗜𝗠𝗣𝗟𝗘 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧 𝗠𝗔𝗗𝗘 𝗕𝗬 𝗕𝗔𝗥𝗔𝗞𝗔 𝗕𝗘𝗚𝗔
  
   </a>
 </p>
@@ -37,19 +36,45 @@
 <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-yellow?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 
 
-# DEPLOY SETUP
+## 🚀 `Bot Features`
+| Feature                          | Description                                             | Available    | Version    |
+| ---------------------------------| ------------------------------------------------------- | ------------ | ---------- |
+| Multi-Device Support             | Operate the bot on multiple devices simultaneously      | ✅           | 3.0        |
+| AI Chat Bot                      | Bot Can Reply To Questions                              | ✅           | 3.0        |
+| Downloader Commands              | Download various types of content from the internet     | ✅           | 3.0        |
+| Hidden NSFW Commands             | Access a range of NSFW commands hidden in the bot       | ✅           | 3.0        |
+| Logo Commands                    | Generate logos using specialized commands               | ✅           | 3.0        |
+| Anime Commands                   | Explore anime-related commands and features             | ✅           | 3.0        |
+| Bot Cantrol Commands             | Cantrol Bot Without Opening Deploy Platform             | ✅           | 3.0        |
+| Various Games                    | Enjoy a variety of games within the bot                 | ✅           | 3.0        |
+| Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 3.0        |
 
 
-## 1 *`⨷ SCAN PAIRING CODE + QR IN THE APP`*
+ 
 
 
-[*`BARAKA APP`*](https://baraka-pair-code1-2214cd943a75.herokuapp.com/)
+*`𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗦𝗜𝗧𝗘`*
 
 
-## 2 *`⨷ Now Deploy`*
+[*`𝗦𝗖𝗔𝗡 𝗤𝗥`*](https://baraka-pair-code1-2214cd943a75.herokuapp.com/qr)
 
-**[*`TAP HERE TO DEPLOY ON HEROKU`*](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BARAKA-MD)**
+[*`𝗣𝗮𝗶𝗿 𝗰𝗼𝗱𝗲`*](https://baraka-pair-code1-2214cd943a75.herokuapp.com/pair)
 
+
+
+#### *´DEPLOY TO HEROKU`*
+
+
+1. If You don't have a account in Heroku. Create a account.
+
+    
+(https://signup.heroku.com/login)
+
+
+2. Now deploy
+
+    
+(https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BARAKA-MD)
 
 
 [*`Thanks to Ibrahim Adams`*](https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y)
