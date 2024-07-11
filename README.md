@@ -1,11 +1,17 @@
+BARAKA-MD-V1 
+
+
+
 </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43">
     <img alt=Support height="350" src="https://telegra.ph/file/c49429f9051bd41ad96dc.jpg"> 
     </p>
 <p align="center"> 
-   𝗕𝗔𝗥𝗔𝗞𝗔 𝗠𝗗-𝗩1 𝗠𝗨𝗟𝗧𝗜-𝗗𝗘𝗩𝗜𝗖𝗘
-
+ 
+  `𝗕𝗔𝗥𝗔𝗞𝗔 𝗠𝗗-𝗩1 𝗠𝗨𝗟𝗧𝗜-𝗗𝗘𝗩𝗜𝗖𝗘`
+  
+  
   ### ℹ️ **About BARAKA-MD-V1**
 ## BARAKA-MD-V1 is a Cool Multi-Device WhatsApp bot developed by [Baraka bega]
 
