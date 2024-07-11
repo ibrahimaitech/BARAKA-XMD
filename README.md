@@ -91,4 +91,4 @@
 
 
 
-[*`Thanks to Ibrahim Adams and Baraka Bega`*](https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y)
+[*`𝗧𝗛𝗔𝗡𝗞𝗦 𝗧𝗢 𝗜𝗕𝗥𝗔𝗛𝗜𝗠 𝗔𝗗𝗔𝗠𝗦 𝗔𝗡𝗗 𝗕𝗔𝗥𝗔𝗞𝗔 𝗕𝗘𝗚𝗔`*](https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y)
