@@ -111,10 +111,10 @@
 
 #### DEPLOY TO RENDER
 
-13. If You don't have a account in Render. Create a account.
+1. If You don't have a account in Render. Create a account.
     <br>
 <a href='https://dashboard.render.com/register' target="_blank"><img alt='Render' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
 
-14. Now Deploy
+2. Now Deploy
     <br>
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
