@@ -37,7 +37,7 @@
 <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-yellow?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 
 
-## `Bot Features`🪶
+## `BOT FEATURES`
 | Feature                          | Description                                             | Available    | Version    |
 | ---------------------------------| ------------------------------------------------------- | ------------ | ---------- |
 | Multi-Device Support             | Operate the bot on multiple devices simultaneously      | ✅           | 3.0        |
@@ -80,7 +80,7 @@
 
 
 
-2. Now deploy
+2. Now deploy bot
 
 
     
