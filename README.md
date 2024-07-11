@@ -129,11 +129,11 @@
 
 
 
-## 🏷️ `Owner` 
-<a href="https://github.com/Barakabega"><img src="https://github.com/Barakabega" width="250" height="250" alt="Salman Ahmad"/></a>
+## 🏷️ `OWNER` 
+<a href="https://github.com/Barakabega"><img src="https://github.com/Barakabega" width="250" height="250" alt="Baraka-bega"/></a>
 
 
 
 
-## 🏷️ `Maina Dev` 
-<a href="https://github.com/ibrahimaitech"><img src="https://github.com/ibrahimaitech" width="250" height="250" alt="VENOX"/></a>
+## 🏷️ `MAIN DEV` 
+<a href="https://github.com/ibrahimaitech"><img src="https://github.com/ibrahimaitech" width="250" height="250" alt="Ibrahim-Adams"/></a>
