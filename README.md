@@ -3,7 +3,8 @@
   <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43">
     <img alt=Support height="350" src="https://telegra.ph/file/c49429f9051bd41ad96dc.jpg"> 
     </p>
-<p align="center">  𝗕𝗔𝗥𝗔𝗞𝗔 𝗠𝗗-𝗩1 𝗠𝗨𝗟𝗧𝗜-𝗗𝗘𝗩𝗜𝗖𝗘
+<p align="center"> 
+  ## 𝗕𝗔𝗥𝗔𝗞𝗔 𝗠𝗗-𝗩1 𝗠𝗨𝗟𝗧𝗜-𝗗𝗘𝗩𝗜𝗖𝗘
 
   
 
@@ -87,23 +88,7 @@
 
 
 
-### *`𝗗𝗘𝗣𝗟𝗢𝗬 𝗧𝗢 𝗥𝗘𝗣𝗟𝗜𝗧`*
 
-
-
-1. Create a account
-
-
-   
-[*`𝗖𝗥𝗘𝗔𝗧𝗘`*](https://replit.com/signup)
-
-
-
-2. Now deploy 
-
-
-
-[*`𝗗𝗘𝗣𝗟𝗢𝗬`*](https://replit.com/login?source=%2Fgithub%2F*&goto=%2Fnew%2F%3FgithubRepo%3Dsalmanytofficial%2FXLICON-V3-MD)
 
 
 
