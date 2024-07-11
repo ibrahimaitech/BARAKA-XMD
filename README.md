@@ -45,6 +45,7 @@
 | Bot Cantrol Commands             | Cantrol Bot Without Opening Deploy Platform             | ✅           | 3.0        |
 | Various Games                    | Enjoy a variety of games within the bot                 | ✅           | 3.0        |
 | Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 3.0        |
+| Auto/View once commands     | remove audio and video from lock commands           | ✅           | 3.0        |
 
 
  
