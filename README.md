@@ -48,8 +48,10 @@
 | Bot Cantrol Commands             | Cantrol Bot Without Opening Deploy Platform             | ✅           | 3.0        |
 | Various Games                    | Enjoy a variety of games within the bot                 | ✅           | 3.0        |
 | Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 3.0        |
-| Auto/View once commands     | remove photo and video from lock            | ✅           | 3.0        |
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+| Auto/View once commands     | remove photo and video from lock            | ✅           | 3.0    |
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img
 ## `INSTALLATION METHODS`
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 1. Fork the repo
