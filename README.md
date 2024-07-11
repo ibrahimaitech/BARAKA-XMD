@@ -58,42 +58,20 @@
 
 
 
-### *`𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗦𝗜𝗧𝗘`*
+## `INSTALLATION METHODS`
+1. Fork the repo
 
 
 
+#### DEPLOY TO HEROKU 
 
-[*`𝗦𝗖𝗔𝗡𝗜𝗡𝗚 𝗤𝗥`*](https://baraka-pair-code1-2214cd943a75.herokuapp.com/qr)
+1. If You don't have a account in Heroku. Create a account.
+    <br>
+<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
-
-
-
-[*`𝗣𝗔𝗜𝗥𝗜𝗡𝗚 𝗖𝗢𝗗𝗘`*](https://baraka-pair-code1-2214cd943a75.herokuapp.com/pair)
-
-
-
-
-#### *`𝗗𝗘𝗣𝗟𝗢𝗬 𝗧𝗢 𝗛𝗘𝗥𝗢𝗞𝗨`*
-
-
-
-
-1. Create account
-
-
-
-    
-[*`𝗖𝗥𝗘𝗔𝗧𝗘`*](https://signup.heroku.com/login)
-
-
-
-
-2. Now deploy
-
-
-
-    
-[*`𝗗𝗘𝗣𝗟𝗢𝗬`*](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BARAKA-MD)
+2. Now Deploy
+    <br>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BARAKA-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
 
@@ -120,6 +98,8 @@
     <br>
 <a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
 
+
+
 #### DEPLOY TO OKTETO
 
 5. If You don't have a account in Okteto. Create a account.
@@ -129,6 +109,8 @@
 6. Now Deploy
     <br>
 <a href='https://cloud.okteto.com/login' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=opera' width="96.35" height="28"/></a></p>
+
+
 
 #### DEPLOY TO RAILWAY
 
@@ -140,6 +122,8 @@
     <br>
 <a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=railway' width="96.35" height="28"/></a></p>
 
+
+
 #### DEPLOY TO COOLIFY
 
 11. If You don't have a account in Coolify. Create a account.
@@ -149,6 +133,8 @@
 12. Now Deploy
     <br>
 <a href='https://coolify.io/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=C' width="96.35" height="28"/></a></p>
+
+
 
 #### DEPLOY TO RENDER
 
