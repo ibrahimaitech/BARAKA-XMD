@@ -37,7 +37,7 @@
 
 <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-yellow?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a>
 ## `BOT FEATURES`
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 | Feature                          | Description                                             | Available    | Version    |
