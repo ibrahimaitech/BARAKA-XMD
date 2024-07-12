@@ -139,7 +139,7 @@
 
 
 
-[![Whats-App](https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/L8TDJ3U6Ca1IlGlZaEYyeu
+[![Whats-App](https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/L8TDJ3U6Ca1IlGlZaEYyeu)
 
 
 
