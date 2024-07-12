@@ -7,7 +7,7 @@
 
 </p>
 <p align="center"> 
-  <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43">
+  <a href="https://chat.whatsapp.com/F5BXJci8EDS9AJ6sfKMXIS">
     <img alt=Support height="350" src="https://telegra.ph/file/9f7ae8da5615352023ff6.jpg"> 
     </p>
  
