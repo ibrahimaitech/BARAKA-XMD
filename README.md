@@ -19,6 +19,10 @@
 
 
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+
    <p align="left">
   <a href="https://github.com/ibrahimaitech/BARAKA-XMD/fork">
     <img src="https://img.shields.io/github/forks/ibrahimaitech/BARAKA-XMD?label=Fork&style=social">
