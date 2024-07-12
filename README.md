@@ -68,7 +68,7 @@
 
 
 
-## `INSTALLATION METHODS`
+## `INSTALLATION METHODS`🛠️
 
 1. Fork the repo
     <br>
