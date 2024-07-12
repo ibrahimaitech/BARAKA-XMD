@@ -193,7 +193,7 @@
 
 </p>
 <p align="center"> 
-  <a href="https://chat.whatsapp.com/F5BXJci8EDS9AJ6sfKMXIS">
+  <a href="https://telegra.ph/file/e5746cfa6d1921cb82a48.mp4">
     <img alt=Support height="350" src="https://telegra.ph/file/e5746cfa6d1921cb82a48.mp4"> 
     </p>
 
