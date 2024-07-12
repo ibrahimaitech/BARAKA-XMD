@@ -123,13 +123,17 @@
 
 
 
+[![Whats-App](https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/F5BXJci8EDS9AJ6sfKMXIS)
+
+
+
+
+
 <a aria-label="Join our chats" href="https://wa.me/255762190568?text=Hey Mr baraka, I need Your Help" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 
-
-[![Whats-App](https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white)](https://https://chat.whatsapp.com/F5BXJci8EDS9AJ6sfKMXIS/E4idBD9jqmyj)
 
 
  
