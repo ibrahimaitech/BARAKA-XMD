@@ -176,7 +176,7 @@
 - Ibrahim-Adams
 - Who Helping Me
 - Who Using This Bot
-- Support Me By Subscribe On My Yt [Yt Channel](https://www.youtube.com/@ibrahimaitech)
+- Support Me By Follow On My IG [IG Account](https://www.instagram.com/_______baraka1?igsh=MThjeDNocGYzZWZlZQ==)
 
 
 
