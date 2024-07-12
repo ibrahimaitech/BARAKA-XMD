@@ -129,6 +129,8 @@
 
 
 
+[![Whats-App](https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white)](https://https://chat.whatsapp.com/F5BXJci8EDS9AJ6sfKMXIS/E4idBD9jqmyj)
+
 
  
 <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y" target="_blank">
