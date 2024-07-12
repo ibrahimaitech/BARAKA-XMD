@@ -30,11 +30,9 @@
   <a href="https://github.com/ibrahimaitech/BARAKA-XMD/stargazers">
     <img src="https://img.shields.io/github/stars/ibrahimaitech/BARAKA-XMD?style=social">
       
-  
- 
-<a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-yellow?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
-
 [![Whats-App](https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/L8TDJ3U6Ca1IlGlZaEYyeu)
+  
+<a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-yellow?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 
 
 ## `BOT FEATURES`
