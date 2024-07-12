@@ -186,3 +186,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Developed+by+Baraka+chacha+bega+🤪🤪" alt="Typing SVG" /></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+
+
+
+
+
+</p>
+<p align="center"> 
+  <a href="https://chat.whatsapp.com/F5BXJci8EDS9AJ6sfKMXIS">
+    <img alt=Support height="350" src="https://telegra.ph/file/e5746cfa6d1921cb82a48.mp4"> 
+    </p>
+
