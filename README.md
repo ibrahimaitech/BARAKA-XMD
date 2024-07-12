@@ -145,7 +145,7 @@
 
 
 
-<a aria-label="Join our chats" href="https://wa.me/255762190568?text=Hey Mr baraka, I need Your Help" target="_blank">
+<a aria-label="Join our chats" href="https://wa.me/255762190568?text=𝐇𝐞𝐲 𝐦𝐫...𝐛𝐚𝐫𝐚𝐤𝐚 𝐢 𝐧𝐞𝐞𝐝 𝐲𝐨𝐮𝐫 𝐡𝐞𝐥𝐩 🙏" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
